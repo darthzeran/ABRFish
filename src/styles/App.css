@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+body {
+  min-height: 95vh;
+  padding: 8px;
+  font-family: serif;
+  background: #AED6F1;
+}
